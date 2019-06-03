@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1cUNnbuJ7sS1ZHTvX2K1o6maRP2tyLLPu'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1qvPcTuxCyj3gnt6azWCcAxO-b2VZGS-W'
 model_file_name = 'pika'
 classes = ['pichu', 'pikachu', 'raichu']
 path = Path(__file__).parent
