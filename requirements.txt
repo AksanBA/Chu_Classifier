@@ -1,7 +1,7 @@
-torch == 1.01
 fastai
 starlette
 uvicorn
 python-multipart
 aiofiles
 aiohttp
+torch == 1.01
