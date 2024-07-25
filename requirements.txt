@@ -4,4 +4,4 @@ uvicorn
 python-multipart
 aiofiles
 aiohttp
-torch == 1.01
+torch == 2.2.0
